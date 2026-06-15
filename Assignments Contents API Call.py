@@ -69,7 +69,7 @@ while True:
 
     all_assignments.extend(assignments)
 
-    print(f"Pulled page {page}")
+   # print(f"Pulled page {page}")
     page += 1
 
 
